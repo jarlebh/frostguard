@@ -1,1 +1,10 @@
-/var/hda/files/drives/drive1/gh/dev/workspaces/androidfrost/FrostGuard/res/values/strings.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FrostGuardActivity!</string>
+    <string name="app_name">FrostGuard</string>
+    <string name="curr">Current Value</string>
+    <string name="local_service_started">Yr Data Service Started</string>
+    <string name="local_service_stopped">Yr Data Service Stopped</string>
+	<string name="local_service_label">Yr Data Service</string>
+</resources>

@@ -1,1 +1,7 @@
-/var/hda/files/drives/drive1/gh/dev/workspaces/androidfrost/FrostGuard/res/values/colors.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#ffff00</color>
+    <color name="red">#ff0000</color>
+    <color name="black">#ffffff</color>
+    
+</resources>

@@ -1,1 +1,4 @@
-/var/hda/files/drives/drive1/gh/dev/workspaces/androidfrost/FrostGuard/res/values/styles.xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="asdf">asd</style>
+</resources>

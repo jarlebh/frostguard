@@ -1,1 +1,6 @@
-/var/hda/files/drives/drive1/gh/dev/workspaces/androidfrost/FrostGuard/gen/org/frostguard/BuildConfig.java
+/** Automatically generated file. DO NOT MODIFY */
+package org.frostguard;
+
+public final class BuildConfig {
+    public final static boolean DEBUG = true;
+}
